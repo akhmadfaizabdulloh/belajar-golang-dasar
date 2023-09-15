@@ -1,11 +1,11 @@
-package main
+	package main
 
-import "fmt"
+	import "fmt"
 
-func main() {
-	const firstName string = "Akhmad Faiz"
-	const lastName = "Abdulloh"
-	const value = 1000
+	func main() {
+		const firstName string = "Akhmad Faiz"
+		const lastName = "Abdulloh"
+		const value = 1000
 
 	// nilai const tidak dapat diubah
 	// firstName = "Arios"
